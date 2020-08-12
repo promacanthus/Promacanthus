@@ -5,8 +5,10 @@
 <!--
 **Promacanthus/Promacanthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<!--
 Here are some ideas to get you started:
+-->
+#### About me
 
 - 🔭 I’m currently working on cloud native.
 - 🌱 I’m currently learning golang.
@@ -34,7 +36,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<p align="center"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/promacanthus/count.svg" />
 </p>

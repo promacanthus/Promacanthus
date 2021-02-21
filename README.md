@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Promacanthus&repo=Promacanthus)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promacanthus&layout=compact&hide=JavaScript,TypeScripts,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promacanthus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -1,6 +1,6 @@
 ### Hi there, I'm [bowen zhu](https://github.com/Promacanthus)!👋
 
-[Blog](https://promacanthus.netlify.app/)
+<!-- [Blog](https://promacanthus.netlify.app/) -->
 
 <!--
 **Promacanthus/Promacanthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

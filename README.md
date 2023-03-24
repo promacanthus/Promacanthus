@@ -8,7 +8,8 @@
 
 I'm [bowen zhu](https://github.com/Promacanthus)!
 
-<a href="https://app.daily.dev/Sugoi"><img src="https://api.daily.dev/devcards/ebb22cc2a5bf4513961f74ee378b262e.png?r=x49" width="400" alt="Bowen Zhu's Dev Card"/></a>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/promacanthus/promacanthus/blob/master/devcard.svg" width="400" alt="Bowen Zhu's Dev Card"/></a>
 
 <!-- [Blog](https://promacanthus.netlify.app/) -->
 

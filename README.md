@@ -4,11 +4,11 @@
 [![Actions Status](https://github.com/Promacanthus/Promacanthus/workflows/update-gh-activity/badge.svg)](https://github.com/Promacanthus/Promacanthus/actions) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Promacanthus.Promacanthus)
 
-<a href="https://app.daily.dev/Sugoi"><img src="https://api.daily.dev/devcards/ebb22cc2a5bf4513961f74ee378b262e.png?r=x49" width="400" alt="Bowen Zhu's Dev Card"/></a>
-
 <p>Welcome to my page! </br> 
 
 I'm [bowen zhu](https://github.com/Promacanthus)!
+
+<a href="https://app.daily.dev/Sugoi"><img src="https://api.daily.dev/devcards/ebb22cc2a5bf4513961f74ee378b262e.png?r=x49" width="400" alt="Bowen Zhu's Dev Card"/></a>
 
 <!-- [Blog](https://promacanthus.netlify.app/) -->
 

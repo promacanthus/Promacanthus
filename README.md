@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Promacanthus&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promacanthus&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Promacanthus&custom_title=Bowen's%20Activity%20Graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Promacanthus's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Promacanthus&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/promacanthus" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>

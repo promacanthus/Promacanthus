@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!-- [![Actions Status](https://github.com/Promacanthus/Promacanthus/workflows/wakatime-stats/badge.svg)](https://github.com/Promacanthus/Promacanthus/actions)
-[![Actions Status](https://github.com/Promacanthus/Promacanthus/workflows/update-gh-activity/badge.svg)](https://github.com/Promacanthus/Promacanthus/actions) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Promacanthus.Promacanthus)
 
 <p>Welcome to my page! </br> 
@@ -10,14 +8,7 @@ I'm [bowen zhu](https://github.com/Promacanthus)!
 
 <a href="https://app.daily.dev/sugoi680"><img src="./devcard.png" width="652" alt="Bowen Zhu's Dev Card"/></a>
 
-<!-- [Blog](https://promacanthus.netlify.app/) -->
-
-<!--
-**Promacanthus/Promacanthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-Here are some ideas to get you started:
--->
+[Blog](https://promacanthus.netlify.app/)
 
 #### About me
 
@@ -34,19 +25,18 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,gitlab,go,grafana,kubernetes,linux,md,ubuntu,vscode)](https://skillicons.dev)
 
-<!--
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=26358883" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26358883&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @promacanthus" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=26358883&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=promacanthus&repo=awesome-golang-ai" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
 
-<!-- <p>Visitor count<br><img src="https://profile-counter.glitch.me/promacanthus/count.svg" /></p> -->
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Promacanthus&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promacanthus&layout=compact&theme=vue&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p>Visitor count<br><img src="https://profile-counter.glitch.me/promacanthus/count.svg" /></p>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)

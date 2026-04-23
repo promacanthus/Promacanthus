@@ -6,14 +6,10 @@
 
 I'm [bowen zhu](https://github.com/Promacanthus)!
 
-<a href="https://app.daily.dev/sugoi680"><img src="./devcard.png" width="652" alt="Bowen Zhu's Dev Card"/></a>
-
-[Blog](https://promacanthus.netlify.app/)
-
 #### About me
 
-- 🔭 I’m currently working on cloud native.
-- 🌱 I’m currently learning golang.
+- 🔭 I’m currently working on AI agent.
+- 🌱 I’m currently learning rust.
 - 📫 How to reach me: promacanthus@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
